@@ -18,7 +18,7 @@
     "dependencies": {
         "jsdom":"https://github.com/springmeyer/jsdom-nogyp/tarball/c501ee8b71d8",
         "xmlhttprequest": "1.5.0",
-        "backbone":"0.3.3",
+        "backbone":"0.9.10",
         "jquery":"1.6.3",
         "express":"2.5.11",
         "connect":"1.9.2",
