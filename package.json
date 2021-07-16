@@ -27,7 +27,7 @@
         "tilelive": "4.5.3",
         "mbtiles": "0.2.9",
         "sphericalmercator": "1.0.2",
-        "underscore": "1.6.0",
+        "underscore": "1.13.1",
         "wax": "6.4.2",
         "modestmaps": "3.3.5"
     },
